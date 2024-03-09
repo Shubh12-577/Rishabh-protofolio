@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Rishabh kushwah </span>
-            from <span className="purple"> Patna, India.</span>
+            from <span className="purple"> Morena, India.</span>
             <br />
             Third-year B.Tech CSE student at IES University, delving into computer science realms,
              mastering algorithms, programming languages, and tech advancements,
